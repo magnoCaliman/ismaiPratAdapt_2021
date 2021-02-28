@@ -3,8 +3,8 @@
 ** Introdução
 - "Modificações transtextuais decorrentes da adaptação"
 - "Relações estabelecidas entre os diferentes sistemas semióticos, numa perspectiva comparatista"
-  - Reconhecimento de padrões -> Elementos que se repetem / se mantém durante a transdução
-  - Criatividade computacional -> Artista não opera no material concreto, mas no sistema que gera o material
+  - *Reconhecimento de padrões* -> Elementos que se repetem / se mantém durante a transdução
+  - *Criatividade computacional* -> Artista não opera no material concreto, mas no sistema que gera o material
 
 - Pergunta: como somos capazes de reconhecer que dois rostos pertencem à pessoas diferentes, mas ainda assim pertencem à categoria "ser humano"?
   - Pareidolia - https://duckduckgo.com/?q=pareidolia&iax=images&ia=images
