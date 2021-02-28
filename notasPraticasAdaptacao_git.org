@@ -10,12 +10,11 @@
   - Pareidolia - https://duckduckgo.com/?q=pareidolia&iax=images&ia=images
 
 ** Inteligência Artificial e Classificação
-  - https://en.wikipedia.org/wiki/DeepDream
-    - https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art
+- https://en.wikipedia.org/wiki/DeepDream
+  - https://www.theguardian.com/artanddesign/2016/mar/28/google-deep-dream-art
 
-  - https://www.thispersondoesnotexist.com/
-    - https://generated.photos/
+- https://www.thispersondoesnotexist.com/
+  - https://generated.photos/
 
 ** Style transfer
-  - https://reiinakano.com/arbitrary-image-stylization-tfjs/
-
+- https://reiinakano.com/arbitrary-image-stylization-tfjs/
