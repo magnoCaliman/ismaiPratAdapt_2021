@@ -18,3 +18,5 @@
 
 ** Style Transfer
 - https://reiinakano.com/arbitrary-image-stylization-tfjs/
+* AULA 02 - 08/MAR
+- Continuation of discussions from aula 01.
