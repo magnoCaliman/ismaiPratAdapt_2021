@@ -18,5 +18,12 @@
 
 ** Style Transfer
 - https://reiinakano.com/arbitrary-image-stylization-tfjs/
+
 * AULA 02 - 08/MAR
 - Continuation of discussions from aula 01.
+* AULA 03 - 15/MAR
+- Project orientation
+* AULA 04 - 22/MAR
+- TV tropes - https://tvtropes.org/
+- Everything is a remix - https://vimeo.com/19447662
+- Jungian archetypes - https://en.wikipedia.org/wiki/Jungian_archetypes
