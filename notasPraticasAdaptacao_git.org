@@ -1,5 +1,4 @@
 * AULA 01 - 01/MAR
-
 ** Introduction
 - "Transtextual modifications resulting from adaptation"
 - "Relations established between different semiotic systems, from a comparative perspective"
@@ -25,5 +24,13 @@
 - Project orientation
 * AULA 04 - 22/MAR
 - TV tropes - https://tvtropes.org/
-- Everything is a remix - https://vimeo.com/19447662
 - Jungian archetypes - https://en.wikipedia.org/wiki/Jungian_archetypes
+
+* AULA 05 - 12/MAR
+- Project presentation
+- Links:
+  - Dinosaur Comics - https://www.qwantz.com/index.php && https://en.wikipedia.org/wiki/Dinosaur_Comics
+* AULA 06 - 19/MAR
+- Everything is a remix - https://vimeo.com/19447662
+- David Lynch - Lost Highway - 
+- Gata Borralheira - [[./assets/gataBorralheira/historia_gata_borralheira_sophia.pdf][pdf]] && [[./assets/gataBorralheira/historia_gata_borralheira_sophia.docx][doc]]
