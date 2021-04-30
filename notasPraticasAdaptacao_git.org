@@ -35,3 +35,41 @@
   - Tv Tropes - [[https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGoodTheBadAndTheUgly][The Good, the Bad and the Ugly]] -> See trope "Enemy Eats Your Lunch"
 - David Lynch - Lost Highway - https://drive.google.com/file/d/10_eNgobirgh0s_XyNnb_DgeukvTRvb6w/view?usp=sharing
 - Gata Borralheira - [[./assets/gataBorralheira/historia_gata_borralheira_sophia.pdf][pdf]] && [[./assets/gataBorralheira/historia_gata_borralheira_sophia.docx][doc]]
+* AULA 07 - 26/ABR
+- Continuation of discussion from aula 06
+* AULA 08 - 03/MAI
+- burnedyourtweet
+  - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
+
+- CONSTI2G0
+  - https://vimeo.com/88304676
+
+- Telephone Operator
+  - https://www.youtube.com/watch?v=5F7RjuHsUJc
+
+- signalToNoise
+  - https://www.wired.com/2013/12/this-exhibit-turns-old-school-travel-schedule-boards-into-art/
+  - https://www.lab-au.com/signaltonoise
+
+- Handwritten Invoice
+  - https://www.mokafolio.de/works/Handwritten-Invoice
+
+- Arquivo Escuro
+  - https://vimeo.com/241237286
+  - https://vimeo.com/244822407
+Ação para objeto. Uma esfera de metal descansa sobre a letra Z de um computador, formatado com fonte e preenchimento na cor preta, criando um “texto” contínuo. Ao final da exposição, gera-se um arquivo condizente com o tempo em que o objeto esteve em ação.
+
+O trabalho tem uma mecânica relativamente simples: formata-se um arquivo de word com as seguintes características: a fonte na cor preta, o preenchimento do texto preto, sem margens. O peso de metal é então colocado sobre a letra Z do notebook, que tece potencialmente uma listra negra infinita. Teoricamente, arquivo escuro é um trabalho que aponta para o infinito. A quantidade de informação digital gerada é redundante, o que faz com que o arquivo cresça em extensão mas não em peso (bytes). Em aparência, o objeto se assemelha a uma interface de vídeo, mas tudo ali acontece no ato: é um objeto em ação. A ideia de que o trabalho esteja sendo feito no mesmo tempo em que é assistido o leva para o campo da performance, apesar de não haver qualquer interferência humana a não ser a primeira: o ato de depositar o peso na tecla Z e iniciar o texto infinito. Aliás, o aspecto talvez principal do trabalho é ele estar distante do humano: é como uma maquina esquecida em algum lugar no tempo e espaço que continuaria a produzir independente da presença do homem.
+
+Action for object. A metal sphere rests on the letter Z of a computer, formatted with black font and fill, creating a continuous "text". At the end of the exhibition, a file is generated that matches the time the object was in action.
+
+The work has a relatively simple mechanics: a word file is formatted with the following characteristics: the font is black, the text is filled in black, with no borders. The metal weight is then placed over the notebook's letter Z, which potentially weaves an infinite black stripe. Theoretically, dark file is a work that points to infinity. The amount of digital information generated is redundant, which causes the file to grow in length but not in weight (bytes). In appearance, the object resembles a video interface, but everything there happens in the act: it is an object in action. The idea that the work is being made at the same time it is being watched takes it into the realm of performance, although there is no human interference other than the first: the act of putting weight on the Z key and starting the infinite text. In fact, perhaps the main aspect of the work is that it is distant from the human: it is like a machine forgotten somewhere in time and space that would continue to produce independently of the presence of man.
+
+- Graffiti Drone
+  - https://www.youtube.com/watch?v=Ep5tPWphKFY
+  - https://techcrunch.com/2019/07/05/this-drone-swarm-spray-painted-a-jumbo-size-graffiti-mural/
+  - https://www.youtube.com/watch?v=YTvr3jCsf0o
+
+- CNC print
+  - https://www.youtube.com/watch?v=atkGcfnsK3A
+  - https://www.studiointernational.com/index.php/chance-and-control-art-in-the-age-of-computers-review-victoria-albert-museum
