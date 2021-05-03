@@ -26,18 +26,20 @@
 - TV tropes - https://tvtropes.org/
 - Jungian archetypes - https://en.wikipedia.org/wiki/Jungian_archetypes
 
-* AULA 05 - 12/ABR
+* AULA 05 - 08/ABR
+- For rescheduling
+* AULA 06 - 12/ABR
 - Project presentation
 - Links:
   - Dinosaur Comics - https://www.qwantz.com/index.php && https://en.wikipedia.org/wiki/Dinosaur_Comics
-* AULA 06 - 19/ABR
+* AULA 07 - 19/ABR
 - Everything is a remix - https://vimeo.com/19447662
   - Tv Tropes - [[https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGoodTheBadAndTheUgly][The Good, the Bad and the Ugly]] -> See trope "Enemy Eats Your Lunch"
 - David Lynch - Lost Highway - https://drive.google.com/file/d/10_eNgobirgh0s_XyNnb_DgeukvTRvb6w/view?usp=sharing
 - Gata Borralheira - [[./assets/gataBorralheira/historia_gata_borralheira_sophia.pdf][pdf]] && [[./assets/gataBorralheira/historia_gata_borralheira_sophia.docx][doc]]
-* AULA 07 - 26/ABR
+* AULA 08 - 26/ABR
 - Continuation of discussion from aula 06
-* AULA 08 - 03/MAI
+* AULA 09 - 03/MAI
 - burnedyourtweet
   - http://davidneevel.com/2017/04/06/burnedyourtweet-2/
 
